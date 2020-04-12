@@ -6,7 +6,7 @@ const errorHandler = require('./middleware/error');
 const connectDB = require('./config/db');
 
 // Route files
-const courses = require('./routes/executives');
+const executives = require('./routes/executives');
 
 // Load env vars
 dotenv.config({
