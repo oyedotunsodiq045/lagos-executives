@@ -1,10 +1,8 @@
-[
-    {
-        "_id": "5d713995b721c3bb38c1f5d0",
-		"title": "Mr",
-		"full_name": "Babajide Sanwo-Olu",
-		"portfolio": "Governor",
-		"email": "bosgov@lagosstate.gov.ng",
-		"contact": "2349017077777"
-    }
-]
+[{
+	"_id": "5d713995b721c3bb38c1f5d0",
+	"title": "Mr",
+	"full_name": "Babajide Sanwo-Olu",
+	"portfolio": "Governor",
+	"email": "bosgov@lagosstate.gov.ng",
+	"contact": "2349017077777"
+}]
