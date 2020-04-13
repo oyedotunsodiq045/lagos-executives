@@ -5,6 +5,7 @@ const ExecutiveSchema = new Schema({
   title: {
     type: String,
     enum: [
+      '',
       'Architect',
       'Dr',
       'Engineer',
