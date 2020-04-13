@@ -11,5 +11,75 @@
 		"portfolio": "Deputy Governor",
 		"email": "kohdg@lagosstate.gov.ng",
 		"contact": "2348032215026"
+	},
+	{
+		"title": "Mrs",
+		"name": "Sherifat Folashade Jaji",
+		"portfolio": "Secretary to the State Government",
+		"email": "sjaji@lagosstate.gov.ng",
+		"contact": "2348023122483"
+	},
+	{
+		"title": "Mr",
+		"name": "Hakeem Muri-Okunola",
+		"portfolio": "Head of Service",
+		"email": "hmo@lagosstate.gov.ng",
+		"contact": "2348034030236"
+	},
+	{
+		"title": "Mr",
+		"name": "Tayo Akinmade Ayinde",
+		"portfolio": "Chief of Staff",
+		"email": "tayoayinde@yahoo.co.uk",
+		"contact": "2348022903706"
+	},
+	{
+		"title": "Mr",
+		"name": "Gboyega Soyannwo",
+		"portfolio": "Deputy Chief of Staff",
+		"email": "gsoyannwo@lagosstate.gov.ng",
+		"contact": "2348033084128"
+	},
+	{
+		"title": "Mr",
+		"name": "Rabiu Onaolapo Olowo",
+		"portfolio": "Commissioner for Finance",
+		"email": "rabiuolowo@lagosstate.gov.ng",
+		"contact": "2348022903706"
+	},
+	{
+		"title": "Mrs",
+		"name": "Folashade Adefisayo",
+		"portfolio": "Commissioner for Education",
+		"email": "fadefisayoo@lagosstate.gov.ng",
+		"contact": "2348033008550"
+	},
+	{
+		"title": "Professor",
+		"name": "Akin Abayomi",
+		"portfolio": "Commissioner for Health",
+		"email": "akinabayomi@lagosstate.gov.ng",
+		"contact": "2349031101982"
+	},
+	{
+		"title": "Dr",
+		"name": "Idris Salako-Olu",
+		"portfolio": "Commissioner for Physical Planning and Urban Development",
+		"email": "isalako@lagosstate.gov.ng",
+		"contact": "2348053500032"
+	},
+	{
+		"title": "Mr",
+		"name": "Tunji Bello",
+		"portfolio": "Commissioner for The Environment and Water Resources",
+		"email": "tbello@lagosstate.gov.ng",
+		"contact": "2348035272200"
+	},
+	{
+		"title": "Mr",
+		"name": "Gbenga Omotoso",
+		"portfolio": "Commissioner for Information and Strategy",
+		"email": "gomotoso@lagosstate.gov.ng",
+		"contact": "2348034004237"
 	}
 ]

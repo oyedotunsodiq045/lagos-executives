@@ -13,7 +13,7 @@ const ExecutiveSchema = new Schema({
       'Mrs',
       'Prince',
       'Princess',
-      'Prof',
+      'Professor',
     ],
   },
   name: {
