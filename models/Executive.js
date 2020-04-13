@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 
 const ExecutiveSchema = new Schema({
   title: {
-    type: [String],
+    type: String,
     enum: [
       'Architect',
       'Dr',
