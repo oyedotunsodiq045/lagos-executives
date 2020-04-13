@@ -11,6 +11,7 @@ const ExecutiveSchema = new Schema({
       'Honourable',
       'Mr',
       'Mrs',
+      'Ms',
       'Prince',
       'Princess',
       'Professor',
